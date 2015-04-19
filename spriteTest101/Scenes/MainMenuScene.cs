@@ -21,7 +21,9 @@ using Xamarin.Social;
 using Xamarin.Social.Services;
 
 
-
+/// <summary>
+/// kkkkk
+/// </summary>
 namespace spriteTest101
 {
 	public class MainMenuScene:BasicScene

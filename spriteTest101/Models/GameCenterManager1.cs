@@ -44,7 +44,7 @@ namespace spriteTest101
 				//controller.updateHighScore ();
 			}));
 		}
-
+		//jjijijij
 
 	}
 }
